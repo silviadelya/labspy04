@@ -80,7 +80,7 @@
 
 ### D. Output
 
-![img] screenshot/4-1.png
+![Gambar 3](screenshot/4-1.png)
 
 ## Mengakses List
 
