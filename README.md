@@ -121,7 +121,7 @@
 
 ### C. Output
 
-![img] screenshot/2-1.png
+![Gambar 5](screenshot/2-1.png)
 
 ## Mengubah List
 
