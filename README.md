@@ -154,13 +154,13 @@
 
 ### C. Output
 
-![img] screenshot/3-1.png
+![Gambar 7](screenshot/3-1.png)
 
 ## Menambah List
 
 ### A. Program
 
-![img]
+![img] screenshot/1.png
 
 ### B. Penjelasan
 
