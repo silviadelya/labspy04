@@ -96,13 +96,13 @@
 	daftar=['orchid', 'jasmine', 'rose', 1, 2, 3]
     ```
 
-2. Menampilkan semua elemen yang terdapat pada list yang telah dibuat
+2. Menampilkan semua elemen yang terdapat pada list yang telah dibuat.
 	
     ```python
     print("List:", daftar)
 	```
 
-3. Untuk menampilkan elemen ketiga pada sebuah list, gunakan `daftar[3]`. <b>daftar</b> adalah nama variable dari list yang akan dibuat, sedangkan <b>[3]</b> adalah elemen ketiga karena kita akan menampilkan elemen yang ketiga. <b>Note : Nomor indeks list selalu dimulai dari nol.</b>
+3. Untuk menampilkan elemen ketiga pada sebuah list, gunakan `daftar[3]`. <b>"daftar"</b> adalah nama variable dari list yang akan dibuat, sedangkan <b>[3]</b> adalah elemen ketiga karena kita akan menampilkan elemen yang ketiga. <b>Note : Nomor indeks list selalu dimulai dari nol.</b>
 	
     ```python
 	print("Elemen ke-3 :", daftar[3])
@@ -131,7 +131,7 @@
 
 ### B. Penjelasan
 
-1. Membuat list dengan nilai yang diinginkan
+1. Membuat list dengan nilai yang diinginkan.
 	
     ```python
 	daftar=['orchid', 'jasmine', 'rose', 1, 2, 3]
