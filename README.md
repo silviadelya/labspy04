@@ -8,7 +8,7 @@
 
 ### B. Program
 
-![img] screenshot/4.png
+![Gambar 2](screenshot/4.png)
 
 ### C. Penjelasan
 
@@ -80,7 +80,7 @@
 
 ### D. Output
 
-![img]
+![img] screenshot/4-1.png
 
 ## Mengakses List
 
