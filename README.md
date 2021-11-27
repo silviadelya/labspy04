@@ -12,7 +12,7 @@
 
 ### C. Penjelasan
 
-1. Mendeklarasikan list data[] yang didalamnya berisi inputan (nama, nim, tugas, uts, uas, nilai akhir).
+1. Mendeklarasikan list `data[]` yang didalamnya berisi inputan (nama, nim, tugas, uts, uas, nilai akhir).
 
 	```python
 	data=[]
@@ -68,7 +68,7 @@
 	print(65*"=")
 	```
 
-8. Untuk membuat isi tabel sesuai keinginan dengan format string.
+8. Membuat isi tabel sesuai keinginan dengan format string.
 
 	```python
 	print("| {0:^10} | {1:^10} | {2:^6} | {3:^4} | {4:^4} | {5:^12} |".format("NAMA", "NIM", "TUGAS", "UTS", "UAS", "NILAI AKHIR"))
@@ -102,7 +102,7 @@
     print("List:", daftar)
 	```
 
-3. Untuk menampilkan elemen ketiga pada sebuah list, gunakan `daftar[3]`. <b>daftar</b> adalah nama variable dari list yang akan dibuat, sedangkan <b>[3]</b> adalah elemen ketiga karena  kita akan menampilkan elemen yang ketiga. <b>Note : Nomor indeks list selalu dimulai dari nol.</b>
+3. Untuk menampilkan elemen ketiga pada sebuah list, gunakan `daftar[3]`. <b>daftar</b> adalah nama variable dari list yang akan dibuat, sedangkan <b>[3]</b> adalah elemen ketiga karena kita akan menampilkan elemen yang ketiga. <b>Note : Nomor indeks list selalu dimulai dari nol.</b>
 	
     ```python
 	print("Elemen ke-3 :", daftar[3])
@@ -138,7 +138,7 @@
     print("List:", daftar)
 	```
 
-2. Untuk mengubah elemen ke-4  dengan nilai yang lain, gunakan `daftar[4]=0`.
+2. Untuk mengubah elemen ke-4 dengan nilai yang lain, gunakan `daftar[4]=0`.
 
 	```python
 	daftar[4]=0
@@ -200,6 +200,6 @@
 
 ### C. Output
 
-![img] screenshot/1-1.png
+![Gambar 9](screenshot/1-1.png)
 
 ## Sekian Terimakasih
