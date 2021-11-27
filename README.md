@@ -127,7 +127,7 @@
 
 ### A. Program
 
-![img] screenshot/3.png
+![Gambar 6](screenshot/3.png)
 
 ### B. Penjelasan
 
@@ -154,7 +154,7 @@
 
 ### C. Output
 
-![img]
+![img] screenshot/3-1.png
 
 ## Menambah List
 
