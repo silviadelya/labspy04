@@ -127,7 +127,7 @@
 
 ### A. Program
 
-![img]
+![img] screenshot/3.png
 
 ### B. Penjelasan
 
