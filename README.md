@@ -4,7 +4,7 @@
 
 ### Flowchart
 
-![img] screenshot/5.jpg
+![Gambar 1](screenshot/5.jpg)
 
 ### Program
 
@@ -41,7 +41,7 @@
     data.append([nama, nim, tugas, uts, uas, hitung])
     ```
 
-5. Pada input <b>tanya</b> apabila jawaban “t” atau “T”, maka program akan berhenti dan akan menampilkan hasil daftar datanya.
+5. Pada input <b>Tambah Data Lagi?</b> apabila jawaban “t” atau “T”, maka program akan berhenti dan akan menampilkan hasil daftar datanya.
 
 	```python
 	lanjut=input("Tambah Data Lagi?(y/t)")
