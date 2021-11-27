@@ -160,7 +160,7 @@
 
 ### A. Program
 
-![img] screenshot/1.png
+![Gambar 8](screenshot/1.png)
 
 ### B. Penjelasan
 
@@ -200,6 +200,6 @@
 
 ### C. Output
 
-![img]
+![img] screenshot/1-1.png
 
 ## Sekian Terimakasih
