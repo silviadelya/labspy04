@@ -86,7 +86,7 @@
 
 ### A. Program
 
-![img]
+![img] screenshot/2.png
 
 ### B. Penjelasan
 
