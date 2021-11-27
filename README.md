@@ -2,15 +2,15 @@
 
 ## Program Menambahkan Data ke Dalam List
 
-### Flowchart
+### A. Flowchart
 
 ![Gambar 1](screenshot/5.jpg)
 
-### Program
+### B. Program
 
-![img]
+![img] screenshot/4.png
 
-### Penjelasan
+### C. Penjelasan
 
 1. Mendeklarasikan list data[] yang didalamnya berisi inputan (nama, nim, tugas, uts, uas, nilai akhir).
 
@@ -78,17 +78,17 @@
 	print("| {0:>10} | {1:>10} | {2:>6} | {3:>4} | {4:>4} | {5:>12} |".format(x[0],x[1],x[2],x[3],x[4],x[5]))
 	```
 
-### Output
+### D. Output
 
 ![img]
 
 ## Mengakses List
 
-### Program
+### A. Program
 
 ![img]
 
-### Penjelasan
+### B. Penjelasan
 
 1. Membuat list dengan value (nilai) yang diinginkan. Dalam variable <b>daftar</b> tersimpan nilai berupa array list yang didalamnya terdapat 6 elemen. Dimulai dari elemen pertama atau indeks ke-0 yaitu “orchid” dan diakhiri dengan elemen ke-6 atau indeks ke-5 yaitu “3”.
 
@@ -119,17 +119,17 @@
 	print("Elemen Terakhir :", daftar[-1])
 	```
 
-### Output
+### C. Output
 
 ![img]
 
 ## Mengubah List
 
-### Program
+### A. Program
 
 ![img]
 
-### Penjelasan
+### B. Penjelasan
 
 1. Membuat list dengan nilai yang diinginkan
 	
@@ -152,17 +152,17 @@
     print(daftar)
 	```
 
-### Output
+### C. Output
 
 ![img]
 
 ## Menambah List
 
-### Program
+### A. Program
 
 ![img]
 
-### Penjelasan
+### B. Penjelasan
 
 1. Buat list dengan variable X dan Y dengan nilai yang diinginkan.
 	
@@ -198,7 +198,7 @@
 	print(x+y)
 	```
 
-### Output
+### C. Output
 
 ![img]
 
